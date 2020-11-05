@@ -1,0 +1,134 @@
+body {
+  background-color: #87ceeb;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 70px;
+}
+
+h2, h3 {
+  margin-bottom: 30px
+}
+
+p {
+  line-height: 2;
+}
+
+/* Nav Bar */
+
+.navbar-brand {
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  margin-right: 1rem;
+  font-weight: bold;
+  color: #fff !important;
+  font-size: 2rem;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.nav-link {
+  color: white !important; 
+  font-weight: bold;
+}
+.navbar {}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+
+
+/* Top Section */
+
+.top-section {
+  text-align: left;
+  padding: 7% 5%;
+  color: #fff;
+}
+
+.top-section-img {
+  width: 80%;
+}
+
+/* Middle Section */
+
+.middle-section {
+  background-color: #fff;
+  padding: 7% 5%;
+}
+
+.middle-section-h1 {
+  margin-bottom: 20px;
+}
+
+.middle-section-img {
+  margin: 50px 0;
+}
+
+/* Bottom Section */
+
+.bottom-section {
+  padding: 7% 5%;
+  color: #fff;
+}
+
+.bottom-section-img {
+  width: 15%;
+  margin-bottom: 30px;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #fff;
+  padding: 10px 20px;
+}
+
+.footer-icons {
+  margin: 1rem 1rem;
+}
+
+.facebook:hover {
+  color: #4267b2;
+}
+
+.twitter:hover {
+  color: #1da1f2;
+}
+
+.instagram:hover {
+  color: #3f729b;
+}
+
+.mail:hover {
+  color: #f00;
+}
+ /* Form */
+
+.form {
+  padding: 2% 5%;
+}
+
+.email {
+  margin-top: 20px;
+}
+
+.text {
+  margin-top: 20px;
+}
+
+ .textarea {
+   margin: 25px 0 25px 0;
+ }
+
+.h1-contact {
+  color: #fff;
+}
